@@ -1,4 +1,4 @@
-### Alize Lee
+### 🌱 Alize Lee
 
 Junior Full Stack Developer in Stockholm. Having completed 9-weeks intensive web development course in Le Wagon Stockholm, batch #486. 
 
