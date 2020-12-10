@@ -2,23 +2,23 @@
 
 Junior Full Stack Developer in Stockholm. Having completed 9-weeks intensive web development course in Le Wagon Stockholm, batch #486. Start using Pomodor timer when code... I have to eat and drink to remain as a human being. 
 
-#### Goals as a coder
+#### 🎯 Coding goals
+I love feeling proud & satisfied with my result. Sometimes it keeps me work stretching beyond office hours to reach there. I want to code super clean like a master. I want to be able to provide my work as a good example in the future!
 
-I love feeling proud & satisfaction when I've done my job. Sometimes it keeps me work stretching beyond office hours. I want to code super clean like a master. I want to be able to provide my work as a good example in the future!
-
-#### Learning is fun!
-
+#### 😃 Learning is fun!
 I am an enthusiastic learner, a curious explorer and an improvisor. I always try to be the best version of myself and be better than yesterday. I am intrigued with new challenges, motivated by its requirements. It's awesome that I can keep learning while working!
 
-#### Project
+### 👩🏻‍💻 Project
 
-**The Barter Club**
+#### The Barter Club
 Money-free trading in community where cares the environment. 
 *Two weeks / 4 developers*
-**PETogether**
+
+#### PETogether
 Airbnb practice project - Book a time with pets around
 *One week / 4 developers*
-**Mr.cocktail - Cocktail Bar486**
+
+#### Mr.cocktail - Cocktail Bar486
 See cocktail list and add ingredients
 *Two days / by my own*
 
