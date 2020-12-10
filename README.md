@@ -11,15 +11,15 @@ I am an enthusiastic learner, a curious explorer and an improvisor. I always try
 ### 👩🏻‍💻 Project
 
 #### The Barter Club
-Money-free trading in community where cares the environment. 
+> Money-free trading in community where cares the environment. 
 *Two weeks / 4 developers*
 
 #### PETogether
-Airbnb practice project - Book a time with pets around
+> Airbnb practice project - Book a time with pets around
 *One week / 4 developers*
 
 #### Mr.cocktail - Cocktail Bar486
-See cocktail list and add ingredients
+> See cocktail list and add ingredients
 *Two days / by my own*
 
 <h3 align="left">Languages and Tools</h3>
