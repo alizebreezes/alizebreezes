@@ -1,7 +1,8 @@
-<h1 align="center">Hello, I'm Alize 🌱</h1>
-<h3 align="center">Programming actualizes my imagination & ideas which makes me fall into it! I think I like problems... 🤔</h3>
+<h3 align="center">Hello, I'm Alize 🌱</h3>
 
-- ⚡ Fun fact **Start using Pomodor timer to remember eating and drinking to remain as a human being while coding... 🤖**
+<h4 align="center">Programming actualizes my imagination & ideas which makes me fall into it! I think I like problems... 🤔</h4>
+
+> **Start using Pomodor timer to remember eating and drinking to remain as a human being while coding... 🤖**
 
 
 <h3 align="left">Languages and Tools:</h3>
