@@ -2,9 +2,6 @@
 
 Junior Full Stack Developer in Stockholm. Having completed 9-weeks intensive web development course in Le Wagon Stockholm, batch #486. Start using Pomodor timer when code... I have to eat and drink to remain as a human being. 
 
-#### 🎯 Coding goals
-I love feeling proud & satisfied with my result. Sometimes it keeps me work stretching beyond office hours to reach there. I want to code super clean like a master. I want to be able to provide my work as a good example in the future!
-
 #### 😃 Learning is fun!
 I am an enthusiastic learner, a curious explorer and an improvisor. I always try to be the best version of myself and be better than yesterday. I am intrigued with new challenges, motivated by its requirements. It's awesome that I can keep learning while working!
 
