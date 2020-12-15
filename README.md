@@ -1,4 +1,4 @@
-#### Hello! I am Alize 🌱
+### Hello, I am Alize 🌱
 ##### Programming actualizes my imagination & ideas which makes me fall into it. 
 > But I have to remember eating and drinking to remain as a human being while coding... 🤖
  
