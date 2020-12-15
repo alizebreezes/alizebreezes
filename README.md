@@ -1,6 +1,6 @@
 ### Hello, I am Alize 🌱
-#### Programming actualizes my imagination & ideas which makes me fall into it! I think I like problems... 🤔
-- ⚡ Fun fact? **Start using Pomodor timer to remember eating and drinking to remain as a human being while coding... 🤖**
+**Programming actualizes my imagination & ideas which makes me fall into it! I think I like problems... 🤔**
+⚡ Fun fact **Start using Pomodor timer to remember eating and drinking to remain as a human being while coding... 🤖**
 <br />
 
 ### 🛠 Tech Tools 🛠
