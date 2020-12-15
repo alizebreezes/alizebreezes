@@ -1,6 +1,6 @@
 ### Hello, I am Alize 🌱
 #### Programming actualizes my imagination & ideas which makes me fall into it. 
-> But I have to remember eating and drinking to remain as a human being while coding... 🤖
+> Start using Pomodor timer to remember eating and drinking to remain as a human being while coding... 🤖
 
 
 ### 🛠 Tech Tools 🛠
